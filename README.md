@@ -1,22 +1,20 @@
-# Online Quiz
+# 📝 Online Quiz
 
-A simple and interactive quiz website that shows how different HTML5 input types and forms work. It is designed to be easy to use, accessible for everyone, and organized in a clear and logical way so that user answers can be collected cleanly.
+A clean and interactive quiz layout offering multiple types of form inputs. It features a structured assessment card with a modern software design style.
 
-## 🌟 Key Features
-- **Diverse Input Types**: Implements Radio buttons, Checkboxes, Text inputs, Range sliders, and File uploads.
-- **Structured Assessment**: Uses logical grouping (Question boxes) to provide a clear, easy-to-read assessment flow.
-- **Form Best Practices**: Includes both Submit and Reset functionality with optimized labeling for improved UX.
-- **Fully Responsive**: Adapts perfectly to mobile and desktop viewports through a flexible CSS grid/flex approach.
+### ✨ Features
+- Different input methods including radio buttons, checkboxes, text fields, range sliders, and file uploads.
+- Smooth input focus states with colored borders and shadow rings.
+- Dynamic submit and clear buttons with hover animations.
+- Fully responsive design that looks great on mobile screens.
 
-## 🛠️ Tech Stack
-- **HTML5**: Focus on advanced `<input>` attributes and Form semantics.
-- **CSS3 (Internal)**: Light styling focused on "Paper UI" aesthetics and typography.
-- **Google Fonts**: Uses 'Inter' for professional clarity.
+### 🛠️ Built With
+- HTML5 (Advanced Form Elements)
+- CSS3 (Flexbox, CSS Variables, Custom Styling)
 
-## 📄 How to Use
-1. Clone this repository.
-2. Open `index.html` in any web browser.
-3. Answer the questions and test the input ranges/buttons.
+### 💻 How to Run
+Just open `index.html` in your browser. No extra setup is required.
 
 ---
+
 © Designed & Developed by **Uday**
